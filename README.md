@@ -1,21 +1,106 @@
 # 👋 Hi, I'm Ahmed El Saeed  
 
-💼 Software Engineer - Backend Developer  
-📍 Egypt  
-📧 ahmeddev66@gmail.com  
+### 💼 Software Engineer - Backend Developer  
+
+🚀 Backend Engineer with 3+ years of experience building scalable, production-grade systems across travel, ERP, and educational platforms.
 
 ---
 
 ## 🧠 About Me  
 
-I’m a Backend Developer focused on building scalable, production-ready systems using modern technologies.  
-I enjoy solving real-world problems through clean architecture, performance optimization, and system design.  
+I specialize in designing and developing high-performance backend systems using **Laravel & PHP**, with a strong focus on:  
 
-Currently, I’m diving deep into:  
+- 🏗️ Scalable system architecture  
+- 🔗 Complex API integrations (Travel, Payments, Real-time services)  
+- ⚡ Performance optimization & database efficiency  
+- 🧪 Clean code, SOLID principles, and maintainability  
+
+I’ve worked on real-world systems serving **thousands of users**, including booking platforms, ERP systems, and LMS solutions.
+
+---
+
+## 🔥 What I Bring  
+
+- ✅ 3+ years building production-ready backend systems  
+- ✅ Strong experience in **RESTful API design for mobile apps**  
+- ✅ Integration with 5+ external services (payments, travel APIs, maps, video systems)  
+- ✅ Experience in **ERP, Booking Systems, LMS, and Logistics platforms**  
+- ✅ Clean Architecture, OOP, SOLID, and Design Patterns  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 👨‍💻 Backend  
+- PHP (Laravel)  
+- REST APIs  
+- MVC Architecture  
+- SOLID Principles & Design Patterns  
+- TDD & Clean Code  
+
+### 🗄️ Database  
+- MySQL  
+- PostgreSQL  
+- Query Optimization  
+
+### ⚙️ DevOps & Tools  
+- Docker & Docker Compose  
+- Git & GitHub  
+- Linux (WSL2)  
+- Postman  
+
+### 🌐 Integrations  
+- Payment Gateways (MyFatoorah)  
+- Travel APIs (Webbeds, TBO, Babylon)  
+- Google Maps API  
+- Zoom & Google Meet APIs  
+
+---
+
+## 🚀 Featured Projects  
+
+### ✈️ Travel Booking Platform  
+🔗 Multi-provider booking system integrating Webbeds, TBO, and Babylon APIs  
+- Real-time hotel & flight availability  
+- Payment integration (MyFatoorah)  
+- Scalable booking workflow  
+- Fault-tolerant API handling  
+
+---
+
+### 🎓 Educational Platform (LMS)  
+🔗 Full learning system with:  
+- Course management & multimedia content  
+- Zoom & Google Meet integration  
+- Attendance tracking & reporting  
+- Teacher & student dashboards  
+
+---
+
+### 🏢 ERP Systems  
+🔗 Multiple ERP solutions including:  
+- Inventory management  
+- Employee & HR systems  
+- Reservation & operations management  
+- Real estate & project tracking systems  
+
+---
+
+### 🚚 Shipment Management System  
+🔗 Logistics system for tracking shipments and operations  
+- Status tracking  
+- Workflow optimization  
+- Improved operational visibility  
+
+---
+
+## 🧪 Currently Learning  
+
 - 🤖 AI Agents & RAG Systems  
 - 🏗️ Microservices Architecture  
-- ⚙️ DevOps & Docker Ecosystems  
-- 🧪 Testing & System Reliability  
+- ⚙️ Advanced DevOps & CI/CD  
+- 🧠 System Design (Scalability & High Availability)  
+- 🧪 Advanced Testing Strategies  
 
 ---
 
@@ -27,37 +112,6 @@ Currently, I’m diving deep into:
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 👨‍💻 Backend  
-- PHP (Laravel)  
-- REST APIs  
-- Clean Architecture  
-
-### 🎨 Frontend  
-- Vue.js  
-- Tailwind CSS  
-
-### 🗄️ Database  
-- PostgreSQL  
-- MySQL  
-
-### ⚙️ DevOps & Tools  
-- Docker & Docker Compose  
-- Git & GitHub  
-- Linux (WSL2)  
-
----
-
-## 🚀 What I'm Working On  
-
-- Building AI-powered systems using RAG  
-- Designing scalable backend architectures  
-- Improving performance and system efficiency  
-- Exploring system design patterns in real-world apps  
-
----
-
 ## 📊 GitHub Stats  
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsaeed24&show_icons=true&theme=tokyonight)  
@@ -66,12 +120,6 @@ Currently, I’m diving deep into:
 
 ---
 
-## ⚡ Fun Fact  
+## ⚡ Engineering Mindset  
 
-I enjoy turning complex backend problems into simple, scalable solutions 🚀  
-
----
-
-## 📌 Philosophy  
-
-> "Build systems that scale, not just code that works."  
+> "I don’t just write code — I build systems that scale, integrate, and solve real business problems."  
